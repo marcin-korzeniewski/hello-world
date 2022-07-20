@@ -1,3 +1,3 @@
 # hello-world
-short description
+short description: 
 Hi I'm Martin.
